@@ -73,7 +73,7 @@
                 </configuration>
             </plugin>
         </plugins>
-        <finalName>Spring_Security</finalName>
+        <finalName>SpringSecurity</finalName>
     </build>
 
 </project>
